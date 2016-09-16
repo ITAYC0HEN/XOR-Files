@@ -15,10 +15,10 @@ XOR-Files
 ## Example
 #### Python
 ```
-./xor.py C:\a.txt C:\b.txt c:\result.txt
+./xor.py C:\a.txt C:\b.txt C:\result.txt
 ```
 
 #### Powershell
 ```
-./xor.ps1 C:\a.txt C:\b.txt c:\result.txt
+./xor.ps1 C:\a.txt C:\b.txt C:\result.txt
 ```
