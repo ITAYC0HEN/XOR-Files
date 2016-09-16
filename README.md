@@ -14,11 +14,11 @@ XOR-Files
 ```
 ## Example
 #### Python
-```python
+```
 ./xor.py C:\a.txt C:\b.txt c:\result.txt
 ```
 
 #### Powershell
-```powershell
+```
 ./xor.ps1 C:\a.txt C:\b.txt c:\result.txt
 ```
