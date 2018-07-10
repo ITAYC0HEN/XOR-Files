@@ -1,5 +1,5 @@
 #######################
-# Powershell XOR 2 Files
+# Python XOR 2 Files
 # xor.py
 # Jul 2016
 # Website: http://www.Megabeets.net
