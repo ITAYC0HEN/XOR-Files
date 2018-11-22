@@ -14,7 +14,7 @@ file1_b = bytearray(open(sys.argv[1], 'rb').read())
 file2_b = bytearray(open(sys.argv[2], 'rb').read())
 
 # Set the length to be the smaller one
-size = len(file1_b) if file1_b < file2_b else len(file2_b)
+size = len(file1_b) if len(file1_b) < len(file2_b) else len(file2_b)
 xord_byte_array = bytearray(size)
 
 # XOR between the files
